@@ -20,10 +20,17 @@ In my data, there were many Object Data type and null variables. So, I needed to
 </br></br>
 For converting object data type to usable data type (numeric data type), I have tried 3 method. 
 </br>
-<ul>
+<ol type="1">
  <li>Label Encoding: In label encoding in Python, we replace the categorical value with a numeric value between 0 and the number of classes minus 1. If the categorical variable value contains 5 distinct classes, we use (0, 1, 2, 3, and 4).</li>
- <li></li>
-
+ <li>One-Hot Encoding: One-hot encoding can be applied to the integer representation. This is where the integer encoded variable is removed and a new binary variable is added for each unique integer value.</li>
+ <li>Both Label Encoding and One-Hot Encoding: I tried to separate group by group. However, it does not work well</li>
+ </ol>
+ </br>
+ <ol>
+The best solution for me was the 1st one. 
+</ol>
+</br>
+I normalized data for better results and also for fast training. I also deleted some features because of the null-non_null ratio.
 
 
 
@@ -49,5 +56,6 @@ For converting object data type to usable data type (numeric data type), I have 
  <li>https://www.veribilimiokulu.com/xgboost-nasil-calisir/</li>
  <li>https://machinelearninggeek.com/multi-layer-perceptron-neural-network-using-python/</li>
  <li>https://www.kaggle.com/code/prashant111/lightgbm-classifier-in-python/notebook</li> 
+ <li>https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/</li>
 </ol>
  
