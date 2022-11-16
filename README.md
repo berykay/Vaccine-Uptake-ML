@@ -14,7 +14,7 @@ Also I have a 6 minute Turkish Youtube video to explaning what did I do. Youtube
 </br></br>
 
 ## <p align="center"> Exploratory Data Analysis (EDA)</p> 
-In my data, there were many Object type and null variables. So, I needed to make the data ready for training. </br>
+In my data, there were many Object type and null variables. So, I needed to make the data ready for training. </br></br>
 <img src="https://user-images.githubusercontent.com/74079494/202315106-ed5b2d6e-8e5d-45e3-9fc6-bd3b88dff02a.png" height="550">
 <img src="https://user-images.githubusercontent.com/74079494/202316378-6d4b3d6f-dfe9-4cbf-ada8-af2a798c6691.png" height="550">
 
