@@ -38,11 +38,32 @@ I normalized data for better results and also for fast training. I also deleted 
 </br></br>
 ## <p align="center">Models That I Used</p> 
 <ul> 
- <li>SVM</li>
+ <li>SVM</li> 
+ 
+ ![image](https://user-images.githubusercontent.com/74079494/202320632-ec2cc05e-724d-4aa1-925c-1ac4f9f89e4b.png)
+ 
+ </br>
  <li>Logistic regression</li>
+
+  ![image](https://user-images.githubusercontent.com/74079494/202321034-f1fc8a46-f34b-4ac5-b80f-3de13cf5f071.png)
+
+</br>
  <li>XGBoost</li>
+ 
+ ![image](https://user-images.githubusercontent.com/74079494/202321759-563bf34f-dcff-4a47-be38-c69ba0b2cc70.png)
+
+</br>
  <li>LightGBM</li>
+ 
+ ![image](https://user-images.githubusercontent.com/74079494/202321840-96387184-80fd-4659-85ea-b1834264a978.png)
+
+ 
+ </br>
  <li> Multi-Layer Perceptron (MLP)</li>
+ 
+ ![image](https://user-images.githubusercontent.com/74079494/202321907-56a068a1-c8ca-4fd0-a648-b927afa0e50c.png)
+ </br>
+ 
 </ul>
  
 ## <p align="center">References</p> 
