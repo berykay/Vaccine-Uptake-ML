@@ -66,6 +66,9 @@ I normalized data for better results and also for fast training. I also deleted 
  
 </ul>
  
+## <p align="center">Last Words</p> 
+ This project was my first machine learning project. So, I have been aware of some mistakes after I worked on different machine learning projects. For example, I used MLP but probably did not find the best parameters, or I just deleted some features, but I would try something for them before deleting them, etc. Whatever happens, I have learned many things. I hope I will learn and progress on this path.
+ 
 ## <p align="center">References</p> 
 <ol>
  <li>https://www.mygreatlearning.com/blog/label-encoding-in-python/</li>
