@@ -1,9 +1,11 @@
 ## <p align="center">Machine Learning Project</p> 
+## Project Description:
+Project that uses machine learning algorithms to predict the likelihood of individuals receiving the H1N1 and seasonal flu vaccines. By analyzing various demographic, behavioral, and attitudinal factors, the project can accurately predict which individuals are most likely to receive these vaccines. This can help healthcare providers and policymakers better target their vaccination campaigns and ultimately reduce the spread of these illnesses.
 This project is both a competition and a school project. In this project, I trained my data with different models. Before I start the links maybe you want to visit is below.
 </br>
-Used Language: Python
-</br></br></br>
-You can earn more details from the competition web address: https://www.drivendata.org/competitions/66/flu-shot-learning/ </br> 
+
+</br>
+You can earn more details from the competition web address: </br> https://www.drivendata.org/competitions/66/flu-shot-learning/ </br> </br>
 
 <a href="https://www.drivendata.org/competitions/66/flu-shot-learning/"><img src="https://user-images.githubusercontent.com/74079494/202309852-f8d9ec79-6ab9-4731-9733-1be13edc5c33.png" width="450"></a>
  </br></br>
